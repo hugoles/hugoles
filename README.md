@@ -1,6 +1,6 @@
 ### Hey ya 
 
-you can call me Huggy, i'm a Software Engineer.
+<h3 align="left">you can call me Huggy, i'm a Software Engineer.</h3>
 
 <!--
 **hugoles/hugoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on -->
