@@ -8,7 +8,7 @@
 
 <h3 align="left"><br/>I don't have many projects, but I would love to be part of one.</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hugo dutra" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo dutra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hugo dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo dutra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
