@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">i make projects for my personal development and academic stuffs.</h3>
+<h3 align="left">i make projects for my personal development and academic stuffs.</h3>
 
 <h3 align="left"><br/>I don't have many projects, but I would love to be part of one.</h3>
 <p align="left">
