@@ -2,7 +2,7 @@
 
 ### Hey ya 
 
-<h2 align="left">you can call me Huggy, i'm a Software Engineer.</h2>
+you can call me Huggy, i'm a Software Engineer.
 
 <!--
 **hugoles/hugoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on -->
