@@ -7,9 +7,9 @@ you can call me Huggy, i'm a Software Engineer.
 <!--
 **hugoles/hugoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on -->
 i make projects for my personal development and academic stuffs.
+I don't have many projects, but I would love to be part of one.
 
-<br/>I don't have many projects, but I would love to be part of one.
-<p align="left">
+<br/><p align="left">
 <a href="https://linkedin.com/in/hugo-dutra-1826491b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo dutra" height="30" width="40" /></a>
 </p>
 
