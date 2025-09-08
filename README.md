@@ -11,9 +11,9 @@
   </p>
   
   <p>
-    I craft innovative projects for personal and academic development, always pushing the boundaries of what's possible.
+    I do some projects for personal and academic development, always being hiperfocus in some random shit.
     <br />
-    Currently exploring AI frontiers and would love to collaborate on groundbreaking ideas!
+    Currently exploring AI frontiers and would love to collaborate in any ideas!
   </p>
 </div>
 
